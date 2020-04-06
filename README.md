@@ -1,2 +1,4 @@
 # Programming-Styles
 Various programming styles using the concept of term frequency.
+
+Exercises for all these styles are inspired from the book [Exercises in Programming Style](http://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371/).
