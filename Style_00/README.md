@@ -1,1 +1,3 @@
-# Programming-Style_00
+# Style_00
+
+Implements the term frequency program without any specific style.
